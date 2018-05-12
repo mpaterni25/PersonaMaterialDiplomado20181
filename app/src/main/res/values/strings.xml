@@ -9,9 +9,13 @@
     <string name="limpiar">Limpiar</string>
     <string name="masculino">Masculino</string>
     <string name="femenino">Femenino</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
     <string-array name="sexo">
         <item>@string/masculino</item>
         <item>@string/femenino</item>
     </string-array>
     <string name="mensaje_guardado">Persona Guardada Exitosamente</string>
+    <string name="datos">Datos de la persona</string>
+    <string name="sexo">Sexo</string>
 </resources>

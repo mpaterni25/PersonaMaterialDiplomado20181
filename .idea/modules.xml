@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PersonaMaterialDiplomado20181.iml" filepath="$PROJECT_DIR$/PersonaMaterialDiplomado20181.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diplomado.iml" filepath="$PROJECT_DIR$/Diplomado.iml" />
+      <module fileurl="file://C:\Users\android\AndroidStudioProjects\Diplomado\PersonaMaterialDiplomado20181.iml" filepath="C:\Users\android\AndroidStudioProjects\Diplomado\PersonaMaterialDiplomado20181.iml" />
       <module fileurl="file://C:\Users\android\Documents\PersonaMaterialDiplomado20181\PersonasMaterialDiplomado20181.iml" filepath="C:\Users\android\Documents\PersonaMaterialDiplomado20181\PersonasMaterialDiplomado20181.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\android\AndroidStudioProjects\Diplomado\app\app.iml" filepath="C:\Users\android\AndroidStudioProjects\Diplomado\app\app.iml" />
     </modules>
   </component>
 </project>

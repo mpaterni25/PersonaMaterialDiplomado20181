@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "454575263032",
-    "firebase_url": "https://personasmaterial20181.firebaseio.com",
-    "project_id": "personasmaterial20181",
-    "storage_bucket": "personasmaterial20181.appspot.com"
+    "project_number": "811780819329",
+    "firebase_url": "https://personamaterial20181.firebaseio.com",
+    "project_id": "personamaterial20181",
+    "storage_bucket": "personamaterial20181.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:454575263032:android:3eb8585fbd629747",
+        "mobilesdk_app_id": "1:811780819329:android:3eb8585fbd629747",
         "android_client_info": {
           "package_name": "com.example.android.personasmaterialdiplomado20181"
         }
       },
       "oauth_client": [
         {
-          "client_id": "454575263032-chhhb3icv1p84mefljbjaogmen2sslgs.apps.googleusercontent.com",
+          "client_id": "811780819329-36og1r98kmi339ssssigc737ag8t7nrh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.android.personasmaterialdiplomado20181",
-            "certificate_hash": "ac7f1ef40201b85fa8399cec76e04f3505a74d2e"
+            "certificate_hash": "7ff81976dd9f2e22e8c674a19460c14fcc449393"
           }
         },
         {
-          "client_id": "454575263032-kstm6bs483mfbqd0kmtej5p1iurl7hm7.apps.googleusercontent.com",
+          "client_id": "811780819329-c3o21hrug5f2g953onnl1u720u7ju3sm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCVmXSJ70ECTv8-Ph-9jkggCu6pAu0U-Os"
+          "current_key": "AIzaSyBp7dBz9OOcZenOZLIiUe-ohk6p6pIyq_8"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "454575263032-kstm6bs483mfbqd0kmtej5p1iurl7hm7.apps.googleusercontent.com",
+              "client_id": "811780819329-c3o21hrug5f2g953onnl1u720u7ju3sm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
