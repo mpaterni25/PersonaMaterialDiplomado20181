@@ -18,4 +18,8 @@
     <string name="mensaje_guardado">Persona Guardada Exitosamente</string>
     <string name="datos">Datos de la persona</string>
     <string name="sexo">Sexo</string>
+    <string name="mensaje_eliminar">¿Estas seguro que quieres eliminar?</string>
+    <string name="eliminar_si">Si</string>
+    <string name="eliminar_no">No</string>
+    <string name="modificar_persona">Modificar Persona</string>
 </resources>
