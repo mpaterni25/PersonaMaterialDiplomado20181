@@ -12,6 +12,10 @@ public class Persona {
     private String apellido;
     private int sexo;
 
+    public Persona(){
+
+    }
+
     public Persona(String id,int foto, String cedula, String nombre, String apellido, int sexo) {
         this.id= id;
         this.foto = foto;

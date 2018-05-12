@@ -28,7 +28,9 @@ public class Datos {
         return databaseReference.push().getKey();
     }
 
-
+    public static void setPersonas(ArrayList<Persona> personas){
+        Datos.personas = personas;
+    }
 
     public static ArrayList<Persona> obtener(){
         return personas;
